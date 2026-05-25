@@ -8,6 +8,18 @@
 
 ---
 
+## 🤖 AI 全流程自动产出效果展示
+
+本项目所有的排版效果、官方样式的适配及校验引擎均由 **AI 全流程自动设计与生成**。以下是通过 `zuel_formatter.py` 对 Markdown 论文进行一键转换编译后，输出的真实 Word 文档排版效果截图：
+
+| 1. 自动生成封面 | 2. 摘要与目录独立分页 |
+| :---: | :---: |
+| ![ZUEL Formatter 自动生成封面](assets/cover.png) | ![ZUEL Formatter 摘要与目录](assets/abstract_toc.png) |
+| **3. 正文与多级标题** | **4. 结语与参考文献** |
+| ![ZUEL Formatter 正文与多级标题](assets/body.png) | ![ZUEL Formatter 结语与参考文献](assets/references.png) |
+
+---
+
 ## ✨ 核心特性
 
 - **📄 双通道高保真排版生成**：
