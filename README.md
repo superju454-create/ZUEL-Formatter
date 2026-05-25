@@ -77,14 +77,16 @@ python scripts/zuel_formatter.py validate-docx --input "path/to/your_paper.docx"
 
 ```text
 ZUEL-Formatter/
-├── README.md               # 项目使用说明
-├── SKILL.md                # 技能详细定义与使用说明
-├── .gitignore              # Git 忽略文件配置
+├── README.md                          # 项目使用说明
+├── SKILL.md                           # 技能详细定义与使用说明
+├── 零基础AI小白或者不想动脑党看这里.md   # 极简保姆级使用与本地部署教程
+├── 一键排版与校验.bat                  # Windows 一键极简运行脚本
+├── .gitignore                         # Git 忽略文件配置
 ├── resources/
-│   ├── zuel_logo.png       # 中南财经政法大学官方校徽 (Base64内置)
-│   └── zuel_template.docx  # 本科生论文报告官方 Word 样式参考模板
+│   ├── zuel_logo.png                  # 中南财经政法大学官方校徽 (Base64内置)
+│   └── zuel_template.docx             # 本科生论文报告官方 Word 样式参考模板
 └── scripts/
-    └── zuel_formatter.py   # 排版与格式校验核心脚本
+    └── zuel_formatter.py              # 排版与格式校验核心脚本
 ```
 
 ---
